@@ -1,0 +1,8 @@
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\RC22009-GUIA2-EJ2-Sol\RC22009-GUIA2-EJ2\bin\Debug\RC22009-GUIA2-EJ2.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\RC22009-GUIA2-EJ2-Sol\RC22009-GUIA2-EJ2\bin\Debug\RC22009-GUIA2-EJ2.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\RC22009-GUIA2-EJ2-Sol\RC22009-GUIA2-EJ2\bin\Debug\RC22009-GUIA2-EJ2.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\RC22009-GUIA2-EJ2-Sol\RC22009-GUIA2-EJ2\obj\Debug\RC22009-GUIA2-EJ2.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\RC22009-GUIA2-EJ2-Sol\RC22009-GUIA2-EJ2\obj\Debug\RC22009-GUIA2-EJ2.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-2\RC22009-GUIA2-EJ2-Sol\RC22009-GUIA2-EJ2\bin\Debug\RC22009-GUIA2-EJ2.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-2\RC22009-GUIA2-EJ2-Sol\RC22009-GUIA2-EJ2\obj\Debug\RC22009-GUIA2-EJ2.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-2\RC22009-GUIA2-EJ2-Sol\RC22009-GUIA2-EJ2\obj\Debug\RC22009-GUIA2-EJ2.pdb

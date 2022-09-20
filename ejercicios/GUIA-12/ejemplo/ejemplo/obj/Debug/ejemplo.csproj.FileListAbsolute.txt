@@ -1,0 +1,6 @@
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-12\ejemplo\ejemplo\bin\Debug\ejemplo.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-12\ejemplo\ejemplo\bin\Debug\ejemplo.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-12\ejemplo\ejemplo\bin\Debug\ejemplo.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-12\ejemplo\ejemplo\obj\Debug\ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-12\ejemplo\ejemplo\obj\Debug\ejemplo.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-12\ejemplo\ejemplo\obj\Debug\ejemplo.pdb

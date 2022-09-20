@@ -1,0 +1,9 @@
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\bin\Debug\RC22009-GUIA02-eje03.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\bin\Debug\RC22009-GUIA02-eje03.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\bin\Debug\RC22009-GUIA02-eje03.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\obj\Debug\RC22009-GUIA02-eje03.csprojResolveAssemblyReference.cache
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\obj\Debug\RC22009_GUIA02_eje03.Form1.resources
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\obj\Debug\RC22009_GUIA02_eje03.Properties.Resources.resources
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\obj\Debug\RC22009-GUIA02-eje03.csproj.GenerateResource.Cache
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\obj\Debug\RC22009-GUIA02-eje03.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-13\RC22009-GUIA02-eje03\RC22009-GUIA02-eje03\obj\Debug\RC22009-GUIA02-eje03.pdb

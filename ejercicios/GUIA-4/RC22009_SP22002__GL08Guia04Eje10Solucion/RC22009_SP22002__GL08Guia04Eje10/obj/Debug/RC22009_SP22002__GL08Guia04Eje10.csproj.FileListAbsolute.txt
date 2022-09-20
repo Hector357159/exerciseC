@@ -1,0 +1,6 @@
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-4\RC22009_SP22002__GL08Guia04Eje10Solucion\RC22009_SP22002__GL08Guia04Eje10\bin\Debug\RC22009_SP22002__GL08Guia04Eje10.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-4\RC22009_SP22002__GL08Guia04Eje10Solucion\RC22009_SP22002__GL08Guia04Eje10\bin\Debug\RC22009_SP22002__GL08Guia04Eje10.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-4\RC22009_SP22002__GL08Guia04Eje10Solucion\RC22009_SP22002__GL08Guia04Eje10\bin\Debug\RC22009_SP22002__GL08Guia04Eje10.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-4\RC22009_SP22002__GL08Guia04Eje10Solucion\RC22009_SP22002__GL08Guia04Eje10\obj\Debug\RC22009_SP22002__GL08Guia04Eje10.csprojResolveAssemblyReference.cache
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-4\RC22009_SP22002__GL08Guia04Eje10Solucion\RC22009_SP22002__GL08Guia04Eje10\obj\Debug\RC22009_SP22002__GL08Guia04Eje10.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-4\RC22009_SP22002__GL08Guia04Eje10Solucion\RC22009_SP22002__GL08Guia04Eje10\obj\Debug\RC22009_SP22002__GL08Guia04Eje10.pdb

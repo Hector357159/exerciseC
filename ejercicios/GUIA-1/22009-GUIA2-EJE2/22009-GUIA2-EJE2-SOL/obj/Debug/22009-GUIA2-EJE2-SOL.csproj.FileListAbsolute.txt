@@ -1,0 +1,6 @@
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE2\22009-GUIA2-EJE2-SOL\bin\Debug\22009-GUIA2-EJE2-SOL.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE2\22009-GUIA2-EJE2-SOL\bin\Debug\22009-GUIA2-EJE2-SOL.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE2\22009-GUIA2-EJE2-SOL\bin\Debug\22009-GUIA2-EJE2-SOL.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE2\22009-GUIA2-EJE2-SOL\obj\Debug\22009-GUIA2-EJE2-SOL.csprojResolveAssemblyReference.cache
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE2\22009-GUIA2-EJE2-SOL\obj\Debug\22009-GUIA2-EJE2-SOL.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE2\22009-GUIA2-EJE2-SOL\obj\Debug\22009-GUIA2-EJE2-SOL.pdb

@@ -1,0 +1,6 @@
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-11\RC22009GL08Guia11Eje04Solucion\RC22009GL08Guia11Eje04\bin\Debug\RC22009GL08Guia11Eje04.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-11\RC22009GL08Guia11Eje04Solucion\RC22009GL08Guia11Eje04\bin\Debug\RC22009GL08Guia11Eje04.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-11\RC22009GL08Guia11Eje04Solucion\RC22009GL08Guia11Eje04\bin\Debug\RC22009GL08Guia11Eje04.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-11\RC22009GL08Guia11Eje04Solucion\RC22009GL08Guia11Eje04\obj\Debug\RC22009GL08Guia11Eje04.csprojResolveAssemblyReference.cache
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-11\RC22009GL08Guia11Eje04Solucion\RC22009GL08Guia11Eje04\obj\Debug\RC22009GL08Guia11Eje04.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-11\RC22009GL08Guia11Eje04Solucion\RC22009GL08Guia11Eje04\obj\Debug\RC22009GL08Guia11Eje04.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RM21068_RC22009GL08Guia09Eje10", "RM21068_RC22009GL08Guia09Eje10\RM21068_RC22009GL08Guia09Eje10.csproj", "{8AAEA82A-410A-4A9D-8ADF-3492D0242B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AAEA82A-410A-4A9D-8ADF-3492D0242B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAEA82A-410A-4A9D-8ADF-3492D0242B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAEA82A-410A-4A9D-8ADF-3492D0242B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAEA82A-410A-4A9D-8ADF-3492D0242B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

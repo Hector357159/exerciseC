@@ -1,0 +1,5 @@
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE3-SOL\22009-GUIA2-EJE3\bin\Debug\22009-GUIA2-EJE3.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE3-SOL\22009-GUIA2-EJE3\bin\Debug\22009-GUIA2-EJE3.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE3-SOL\22009-GUIA2-EJE3\bin\Debug\22009-GUIA2-EJE3.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE3-SOL\22009-GUIA2-EJE3\obj\Debug\22009-GUIA2-EJE3.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-1\22009-GUIA2-EJE3-SOL\22009-GUIA2-EJE3\obj\Debug\22009-GUIA2-EJE3.pdb

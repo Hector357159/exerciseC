@@ -1,0 +1,6 @@
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-10\RM21068_RC22009GL08Guia10Eje2Solucion\RM21068_RC22009GL08Guia10Eje2\bin\Debug\RM21068_RC22009GL08Guia10Eje2.exe.config
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-10\RM21068_RC22009GL08Guia10Eje2Solucion\RM21068_RC22009GL08Guia10Eje2\obj\Debug\RM21068_RC22009GL08Guia10Eje2.csprojResolveAssemblyReference.cache
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-10\RM21068_RC22009GL08Guia10Eje2Solucion\RM21068_RC22009GL08Guia10Eje2\bin\Debug\RM21068_RC22009GL08Guia10Eje2.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-10\RM21068_RC22009GL08Guia10Eje2Solucion\RM21068_RC22009GL08Guia10Eje2\bin\Debug\RM21068_RC22009GL08Guia10Eje2.pdb
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-10\RM21068_RC22009GL08Guia10Eje2Solucion\RM21068_RC22009GL08Guia10Eje2\obj\Debug\RM21068_RC22009GL08Guia10Eje2.exe
+C:\Users\chama\Documents\Visual Studio 2015\Projects\RC22009\GUIA-10\RM21068_RC22009GL08Guia10Eje2Solucion\RM21068_RC22009GL08Guia10Eje2\obj\Debug\RM21068_RC22009GL08Guia10Eje2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\RM21068\GUIA11\RM21068_RC22009GL08Guia11eje05Solucion\RM21068_RC22009GL08Guia11eje05\bin\Debug\RM21068_RC22009GL08Guia11eje05.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\RM21068\GUIA11\RM21068_RC22009GL08Guia11eje05Solucion\RM21068_RC22009GL08Guia11eje05\obj\Debug\RM21068_RC22009GL08Guia11eje05.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\RM21068\GUIA11\RM21068_RC22009GL08Guia11eje05Solucion\RM21068_RC22009GL08Guia11eje05\bin\Debug\RM21068_RC22009GL08Guia11eje05.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\RM21068\GUIA11\RM21068_RC22009GL08Guia11eje05Solucion\RM21068_RC22009GL08Guia11eje05\bin\Debug\RM21068_RC22009GL08Guia11eje05.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\RM21068\GUIA11\RM21068_RC22009GL08Guia11eje05Solucion\RM21068_RC22009GL08Guia11eje05\obj\Debug\RM21068_RC22009GL08Guia11eje05.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\RM21068\GUIA11\RM21068_RC22009GL08Guia11eje05Solucion\RM21068_RC22009GL08Guia11eje05\obj\Debug\RM21068_RC22009GL08Guia11eje05.pdb
